@@ -1,0 +1,7 @@
+NVDA, 3
+FB, 2
+TSLA, 3
+NFLX, 3
+CMG, 4
+BLUE, 4
+ORLY, 4
